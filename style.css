@@ -26,6 +26,14 @@ body{
     background-clip: content-box;
 }
 
+.container h3{
+    background: #333;
+    border-radius: 7px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding: 4px;
+    background-clip: padding-box;
+}
 .container a{
     background: white;
     color: lightseagreen;
