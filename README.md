@@ -1,2 +1,2 @@
-# ps_cati
-Voltado a desenvolver o sistema proposto para o ps da CATI
+# SistemAAA CATI
+Voltado a desenvolver o sistema proposto para o processo seletivo da CATI
